@@ -1,0 +1,58 @@
+/* Estilos para la barra de navegación */
+nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Estilos para el encabezado y el párrafo */
+  header {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+  }
+  h1 {
+    color: #333;
+    font-size: 36px;
+  }
+  p {
+    font-size: 24px;
+  }
+  
+  /* Estilos para las secciones */
+  section {
+    padding: 50px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para la lista de proyectos y habilidades */
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
